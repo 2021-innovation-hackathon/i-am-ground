@@ -20,7 +20,7 @@
 **8월 10일(월) 수행해야하는 미션 소개입니다.**
 
 - 자신을 소개하는 글을 작성해서 [Pull Request](https://github.com/2021-innovation-hackathon/i-am-ground/pulls)를 올려요!
-- 자신이 해보고 싶은 버킷리스트를 [Issue](https://github.com/2021-innovation-hackathon/i-am-ground/issues)로 올려주세요!(좋은 말씀들을 공유해주시거나 가사, 시를 공유해주셔도 좋아요!)💓
+- 자신이 해보고 싶은 버킷리스트를 [Issue](https://github.com/2021-innovation-hackathon/i-am-ground/issues)로 올려주세요!(좋은 말씀들을 공유해주시거나 가사, 시를 공유해주셔도 좋아요!)💓 (선택)
 - 다른 사람들의 자기소개와 Issue들을 읽으며 댓글과 이모지 등을 활용해 적극적으로 소통해보아요! 📣
 - 다른 사람들의 PR을 `review`하신 후 `approve` 해주세요!
 - 하시면서 어려움이 생기시다면 언제든지 slack과 머지요정을 적극적으로 활용해주세요!
@@ -104,4 +104,4 @@
 
 6. PR문서에 `자기 소개` label을 달아주세요!
 
-관련자료는 [링크](https://drive.google.com/file/d/1bJiIIs0hFZSTHRIfnYtFZRQVwu994CFk/view?usp=sharing)를 참고해주세요!
+관련자료는 [링크](https://drive.google.com/file/d/1BSyb9oh4QcCrWWOCa5kl8j1BcGXa5pGN/view?usp=sharing)를 참고해주세요!
