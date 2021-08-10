@@ -5,7 +5,7 @@
 ```java
 public class IntroduceMySelf {
   public static void main(String[] args) {
-    System.out.println("웹과 클라우드에 관심이 많은 여러분들의 친구입니다.");
+    System.out.println("웹과 클라우드에 관심이 많은 여러분들의 친구 차승철입니다.");
   }
 }
 ```
